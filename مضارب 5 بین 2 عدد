@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace مضارب_5_بین_دو_عدد
 {
     internal class Program
     {
